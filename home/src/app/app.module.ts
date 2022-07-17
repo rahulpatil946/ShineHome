@@ -14,6 +14,7 @@ import { CreditDepartmentloginComponent } from './credit-departmentlogin/credit-
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { RegistercustomerComponent } from './registercustomer/registercustomer.component';
+import { RahulComponent } from './rahul/rahul.component';
 
  
  
@@ -30,6 +31,7 @@ import { RegistercustomerComponent } from './registercustomer/registercustomer.c
     VerificationdepartmentloginComponent,
     CreditDepartmentloginComponent,
     RegistercustomerComponent,
+    RahulComponent,
     
  
     
